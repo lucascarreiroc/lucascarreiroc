@@ -1,17 +1,24 @@
 # 👋 Olá, eu sou Lucas Carreiro (@lucascarreiroc)
 
-## Sobre mim  
-Sou desenvolvedor em constante evolução, com foco em **desenvolvimento fullstack em Java e JavaScript**.  
-Tenho grande interesse em **projetos visuais**, buscando unir tecnologia e design para criar experiências digitais atrativas e funcionais.  
+## Sobre mim
+Desenvolvedor Java com formação em Análise e Desenvolvimento 
+de Sistemas pelo UniCEUB e certificação oficial 
+**Oracle Certified Foundations Associate – Java (1Z0-811)**.
 
-## Atualmente  
-- 📚 Aprimorando conhecimentos em **JavaScript, React e Node.js**  
-- 💻 Focado em práticas de **desenvolvimento fullstack**  
-- 🎨 Interessado em colaborar em projetos que envolvam **interface e experiência do usuário (UI/UX)**  
+Concluí a formação completa em Java pela Alura, com mais de 
+50 cursos cobrindo desde os fundamentos da linguagem até 
+arquitetura avançada com Spring, Microsserviços e CI/CD.
 
-## Contato  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lucascarreiro)  
-- 📱 [WhatsApp](https://wa.me/5561991240101)  
+## Atualmente
+- ☕ Focado em **desenvolvimento Java backend**
+- 📚 Formação completa concluída na **Alura** — Java do zero ao avançado
+- 🏅 Certificado **Oracle Certified Foundations Associate – Java (1Z0-811)**
+- 🚀 Em busca da **primeira oportunidade profissional em Java**
+
+## Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <!---
 lucascarreiroc/lucascarreiroc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
