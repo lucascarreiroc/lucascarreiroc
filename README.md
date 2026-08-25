@@ -3,7 +3,7 @@
 ## Sobre mim
 Desenvolvedor Java com formação em Análise e Desenvolvimento 
 de Sistemas pelo UniCEUB e certificação oficial 
-**Oracle Certified Foundations Associate – Java (1Z0-811)**.
+**Oracle Certified Foundations Associate - Java (1Z0-811)**.
 
 Concluí a formação completa em Java pela Alura, com mais de 
 50 cursos cobrindo desde os fundamentos da linguagem até 
@@ -11,8 +11,8 @@ arquitetura avançada com Spring, Microsserviços e CI/CD.
 
 ## Atualmente
 - ☕ Focado em **desenvolvimento Java backend**
-- 📚 Formação completa concluída na **Alura** — Java do zero ao avançado
-- 🏅 Certificado **Oracle Certified Foundations Associate – Java (1Z0-811)**
+- 📚 Formação completa concluída na **Alura** - Java do zero ao avançado
+- 🏅 Certificado **Oracle Certified Foundations Associate - Java (1Z0-811)**
 - 🚀 Em busca da **primeira oportunidade profissional em Java**
 
 ## Tecnologias
